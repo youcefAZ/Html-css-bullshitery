@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    line-height: 2em;
+    color: #956813;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: #0E4160;
+
+}
+
+body{
+    background-image: url("images.jpg");
+    background-size: 100% 100%;
+}
+
+li{
+    
+    line-height: 1.5em;
+}
+
+header{
+    text-align: center;
+}
+
+span{
+    text-align: center;
+    text-decoration: underline;
+    padding-left: 15em;
+    padding-right: 15em;
+    padding-top: 3em;
+    padding-bottom: 3em;
+   
+    text-transform: uppercase;
+}
+
+#nword{
+    text-align: end;
+    text-decoration: underline;
+}
+
+.head{
+    color: blue;
+    background-color: #DFFFD6;
+}
+
+a:visited{
+
+}
+
+footer{
+    line-height: 2em;
+    text-align: center;
+}
